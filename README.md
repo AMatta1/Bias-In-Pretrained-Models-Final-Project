@@ -21,7 +21,7 @@ This codebase takes inspiration from the below reasearch paper to verify and rep
  
 **Note: Modifications to original setup**
 1) Wrote and fixed code in a few python files to make the setup run on my local.
-2) Please ignore **'eval_ensemble.py' **and **'eval_sentiment_models.py'**. They are kept so that makefile doesn't break from the original StereoSet files.
+2) Please ignore **'eval_ensemble.py'** and **'eval_sentiment_models.py'**. They are kept so that makefile doesn't break from the original StereoSet files.
 3) The customized dataset is created in stereoset/data/ folder in file **'customised_dataset_final.json'**
 4) Generated the model predictions for the 9 models in code/predictions/ folder.
 5) File **'original_predictions.txt'** contains the original paper's prediction scores (lms,ss,icat) on the development set.
