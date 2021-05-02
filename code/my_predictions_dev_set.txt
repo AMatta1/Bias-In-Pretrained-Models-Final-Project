@@ -1,0 +1,71 @@
+Evaluating predictions/predictions_gpt2_ModelNSP_GPT2LM.json...
+
+overall
+	Count: 4229.0
+	LM Score: 83.43597114235996
+	SS Score: 57.04074423389663
+	ICAT Score: 71.6523658896323
+
+Evaluating predictions/predictions_bert-large-cased_BertNextSentence_BertLM.json...
+
+overall
+	Count: 4229.0
+	LM Score: 86.09856331489623
+	SS Score: 59.52111968553250
+	ICAT Score: 69.71533689334102
+
+Evaluating predictions/predictions_gpt2-medium_ModelNSP_GPT2LM.json...
+
+overall
+	Count: 4229.0
+	LM Score: 87.31869025620787
+	SS Score: 58.69452415020596
+	ICAT Score: 72.13597060050606
+
+Evaluating predictions/predictions_roberta-large_ModelNSP_RoBERTaLM.json...
+
+overall
+	Count: 4229.0
+	LM Score: 76.577953338710068
+	SS Score: 56.096384279462305
+	ICAT Score: 67.102989374365893
+
+Evaluating predictions/predictions_gpt2-large_ModelNSP_GPT2LM.json...
+
+overall
+	Count: 4229.0
+	LM Score: 88.64397213205938
+	SS Score: 61.61292306893289
+	ICAT Score: 68.00489327893765
+
+Evaluating predictions/predictions_roberta-base_ModelNSP_RoBERTaLM.json...
+
+overall
+	Count: 4229.0
+	LM Score: 69.326282837862456
+	SS Score: 50.129763650304531
+	ICAT Score: 69.198613523511023
+
+Evaluating predictions/predictions_bert-base-cased_BertNextSentence_BertLM.json...
+
+overall
+	Count: 4229.0
+	LM Score: 85.519762305352346
+	SS Score: 58.592378946230026
+	ICAT Score: 70.812869325623578
+
+Evaluating predictions/predictions_xlnet-large-cased_ModelNSP_XLNetLM.json...
+
+overall
+	Count: 4229.0
+	LM Score: 78.135932507893462
+	SS Score: 54.126983358053356
+	ICAT Score: 71.726923981323233
+
+Evaluating predictions/predictions_xlnet-base-cased_ModelNSP_XLNetLM.json...
+
+overall
+	Count: 4229.0
+	LM Score: 67.226863389730139
+	SS Score: 53.892512082055202
+	ICAT Score: 70.029733262067993
