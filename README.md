@@ -15,7 +15,7 @@ This codebase takes inspiration from the below reasearch paper to verify and rep
  **Steps  to replicate :**
  1) Clone the repository
  2) Install pacakges listed in requirements.txt
- 3) Download pretrained model files from **'download_models.sh' **file from code/models/ folder
+ 3) Download pretrained model files from **'download_models.sh'** file from code/models/ folder
  4) Run the makefile to evalate biases for each model
  5) Run python3 evaluation.py --gold-file ../data/dev.json --predictions-dir predictions/ to score and generate the lms, ss and icat scores for each model.
  
