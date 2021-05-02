@@ -1,6 +1,6 @@
 # Bias-In-Pretrained-Models-Final-Project
 
-Reference / Citation  :
+**Reference / Citation  :**
 
 @misc{nadeem2020stereoset,
     title={StereoSet: Measuring stereotypical bias in pretrained language models},
